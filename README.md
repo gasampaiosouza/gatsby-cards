@@ -8,6 +8,9 @@ a website with gatsby.
 
 > That's just a joke, i actually got all of those svgs [here](https://www.vexels.com/svg-png/emoji/).
 
+## See it live!
+Yeah i know, it's a small project, but i really like to build my projects live, so [you can see it live here](https://gatsby-cards.netlify.app/).
+
 ## Tools
 
 - [GatsbyJS](https://www.gatsbyjs.com/)
